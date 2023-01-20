@@ -36,7 +36,7 @@
  ![image](https://user-images.githubusercontent.com/113594316/198233336-dd9f5c19-481b-486a-928a-99c32a732f89.png)
 
  ## OUTPUT
-![Screenshot from 2023-01-19 19-39-33](https://user-images.githubusercontent.com/121303741/213463847-3d16a243-ee7c-4509-9903-508961db4db0.png)
+![output](./real.png)
 
 
  
